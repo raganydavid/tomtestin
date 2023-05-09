@@ -2,6 +2,8 @@
     "java.project.sourcePaths": ["src", "test"],            // ide mi vittük be manuálisan ,hogy test
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
-        "lib/**/*.jar"
+        "lib/**/*.jar",
+        "c:\\Library\\junit5\\junit-jupiter-api-5.9.2.jar",
+        "c:\\Library\\junit5\\junit-platform-console-standalone-1.9.2.jar"
     ]
 }
